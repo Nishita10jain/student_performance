@@ -64,4 +64,4 @@ The notebook includes:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-performance-ml.git
+   git clone https://github.com/nishta10jain/student-performance-ml.git
